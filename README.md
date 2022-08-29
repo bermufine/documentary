@@ -1,2 +1,2 @@
 # documentary
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"TV Mana est une chaîne télévisée du Mozambique spécialisée au informations et autres.","sourceMoz":["http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yNjk1NzIzOTRf/mana.png","titleMoz":"TV MANA "}]}]}
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Chine Global Television Network TV est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://live.cgtn.com/1000/prog_index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","titleMoz":"CGTN DOCUMENTARY"}]}]}
