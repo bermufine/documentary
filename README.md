@@ -5,7 +5,7 @@
 
 {"descriptionMoz":"Real Stories TV est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["https://lds-realstories-samsungau.amagi.tv/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY2NTk3Mzdf/realstories.png","titleMoz":"REAL STORIES TV"},
 
-{"descriptionMoz":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://123.30.146.172:21585/531/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleMoz":"DISCOVERY SCIENCE"},
+{"descriptionMoz":"Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["https://gdlmovies.tech/Discovery+/api/Discovery_Channel.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png","titleMoz":"DISCOVERY SCIENCE"},
 
 {"descriptionMoz":"National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["https://sv2.data-stream.top/c5fcfa089fa9919bfa344fd51b91aff26dfb0632846733acb429ae0cbf885812/hls/natgeo.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","titleMoz":"NAT GEO / FRANCAIS"},
 
