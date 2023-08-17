@@ -1,5 +1,5 @@
 # documentary
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"RMC Decouverte est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://162.19.18.141:49214/RMC_DECOUVERTE/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODY2NTk3MzVf/ecobusiness.png","titleMoz":"RMC DECOUVERTE TV"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://185.188.188.235/live/natgeo/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","titleMoz":"NAT GEOGRAPHIC"},
 
 {"descriptionMoz":"National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://49.12.123.148:8989/57/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","titleMoz":"NAT GEOGRAPHIC"},
 
@@ -17,4 +17,6 @@
 
 {"descriptionMoz":"Love Nature est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://49.12.123.148:8989/65/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMzA5MzFf/lovenat.jpg","titleMoz":"LOVE NATURE"},
 
-{"descriptionMoz":"National Geographic Wild est une chaîne télévisée spécialisée au Documentaires wild et autres.","sourceMoz":["http://49.12.123.148:8989/35/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png","titleMoz":"NAT. GEO. WILD"}]}]}
+{"descriptionMoz":"National Geographic Wild est une chaîne télévisée spécialisée au Documentaires wild et autres.","sourceMoz":["http://49.12.123.148:8989/35/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png","titleMoz":"NAT. GEO. WILD"},
+
+{"descriptionMoz":"National Geographic Wild est une chaîne télévisée spécialisée au Documentaires wild et autres.","sourceMoz":["http://185.188.188.235/live/natgeowild/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png","titleMoz":"NAT. GEO. WILD"}]}]}
