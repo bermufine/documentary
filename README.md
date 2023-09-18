@@ -19,4 +19,6 @@
 
 {"descriptionMoz":"Nature Escape est une chaîne télévisée spécialisée au Documentaires wild et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4458"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png","titleMoz":"NATURE ESCAPE"},
 
+{"descriptionMoz":"Deluxe Lounge HD est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4483"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMzA5MzFf/lovenat.jpg","titleMoz":"DELUXE LOUNGE HD"},
+
 {"descriptionMoz":"National Geographic Wild est une chaîne télévisée spécialisée au Documentaires wild et autres.","sourceMoz":["http://185.188.188.235/live/natgeowild/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png","titleMoz":"NAT. GEO. WILD"}]}]}
