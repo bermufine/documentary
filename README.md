@@ -17,6 +17,6 @@
 
 {"descriptionMoz":"Love Nature est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://49.12.123.148:8989/65/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMzA5MzFf/lovenat.jpg","titleMoz":"LOVE NATURE"},
 
-{"descriptionMoz":"National Geographic Wild est une chaîne télévisée spécialisée au Documentaires wild et autres.","sourceMoz":["http://49.12.123.148:8989/35/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png","titleMoz":"NAT. GEO. WILD"},
+{"descriptionMoz":"Nature Escape est une chaîne télévisée spécialisée au Documentaires wild et autres.","sourceMoz":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4458"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png","titleMoz":"NATURE ESCAPE"},
 
 {"descriptionMoz":"National Geographic Wild est une chaîne télévisée spécialisée au Documentaires wild et autres.","sourceMoz":["http://185.188.188.235/live/natgeowild/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png","titleMoz":"NAT. GEO. WILD"}]}]}
