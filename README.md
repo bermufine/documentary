@@ -25,7 +25,9 @@
 
 {"descriptionMoz":"National Géographie 2 est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-091/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","titleMoz":"NAT GEO 3"},
 
-{"descriptionMoz":"National Géographie 2 est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://103.99.249.139/natgeowild/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","titleMoz":"NAT GEO 4"}]}]}
+{"descriptionMoz":"National Géographie 2 est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://103.99.249.139/natgeowild/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","titleMoz":"NAT GEO 4"},
+
+{"descriptionMoz":"RT Documentary est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["https://rtmp.api.rt.com/hls/rtdru.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","titleMoz":"RT DOCUMENTARY"}]}]}
 
 
 
