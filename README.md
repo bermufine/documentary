@@ -1,5 +1,7 @@
 # documentary
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["http://185.177.125.251:8080/ANIMALPLANET/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg","titleMoz":"ANIMAL PLANET HD"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Planet Plus est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["http://185.177.125.251:8080/planeteplus/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTM3NThf/aniplanethd.png","titleMoz":"PLANET PLUS"},
+
+{"descriptionMoz":"Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["http://185.177.125.251:8080/ANIMALPLANET/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg","titleMoz":"ANIMAL PLANET HD"},
 
 {"descriptionMoz":"Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"ADVENTURE EARTH UK"},
 
