@@ -1,5 +1,11 @@
 # documentary
-{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Chine Global Television Network TV 2 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://livefr.cgtn.com/1000f/prog_index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","titleMoz":"CGTN"},
+{"categorieMoz":[{"name":"Movies","videos":[{"descriptionMoz":"Animaux TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["http://185.59.221.131:8081/live/animaux/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg","titleMoz":"ANIMAUX TV"},
+
+{"descriptionMoz":"National Geographic Wild est une chaîne télévisée spécialisée au Documentaires wild et autres.","sourceMoz":["http://185.59.221.131:8081/live/natgeowild/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png","titleMoz":"NAT. GEO. WILD"},
+
+{"descriptionMoz":"Chine Global Television Network TV 2 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://livefr.cgtn.com/1000f/prog_index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","titleMoz":"CGTN"},
+
+{"descriptionMoz":"National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://185.59.221.131:8081/live/natgeo/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","titleMoz":"NAT GEO 2"},
 
 {"descriptionMoz":"Chine Global Television Network TV 1 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://live.cgtn.com/1000/prog_index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","titleMoz":"CGTN 2"},
 
@@ -39,12 +45,10 @@ https://youzontv-app.tk/discovery%2B/Animal_Planet.m3u8
 
 {"descriptionMoz":"Love Nature est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://49.12.123.148:8989/65/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMzA5MzFf/lovenat.jpg","titleMoz":"LOVE NATURE"},
 
-{"descriptionMoz":"National Geographic Wild est une chaîne télévisée spécialisée au Documentaires wild et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-091/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQxMzRf/natgeoWlid.png","titleMoz":"NAT. GEO. WILD"},
-
 {"descriptionMoz":"Planet Plus est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["http://185.177.125.251:8080/planeteplus/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTM3NThf/aniplanethd.png","titleMoz":"PLANET PLUS"},
 
-{"descriptionMoz":"Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["http://185.177.125.251:8080/ANIMALPLANET/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTM0NDlf/aniplanet.jpg","titleMoz":"ANIMAL PLANET HD"},
 
-{"descriptionMoz":"National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://49.12.123.148:8989/57/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","titleMoz":"NAT GEO 2"},
+
+
 
 
