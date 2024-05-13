@@ -11,7 +11,7 @@
 
 {"descriptionMoz":"Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"ADVENTURE EARTH UK"},
 
-{"descriptionMoz":"RMC STORY est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://185.59.221.131:8081/live/rmcdecouverte/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"RMC STORY"},
+{"descriptionMoz":"RMC Découverte est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://185.59.221.131:8081/live/rmcdecouverte/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"RMC DÉCOUVERTE"},
 
 {"descriptionMoz":"RMC STORY est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://185.59.221.131:8081/live/rmcstory/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"RMC STORY"},
 
