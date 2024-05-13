@@ -11,6 +11,10 @@
 
 {"descriptionMoz":"Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"ADVENTURE EARTH UK"},
 
+{"descriptionMoz":"RMC STORY est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://185.59.221.131:8081/live/rmcdecouverte/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"RMC STORY"},
+
+{"descriptionMoz":"RMC STORY est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://185.59.221.131:8081/live/rmcstory/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"RMC STORY"},
+
 {"descriptionMoz":"National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://168.227.22.18:1935/live/mobile-091/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","titleMoz":"NAT GEOGRAPHIC"},
 
 {"descriptionMoz":"Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/1539795/playlist.m3u8?terminate=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7&deviceDNT=0&deviceModel=web&deviceVersion=unknown&includeExtendedEvents=false&appName=web&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&appVersion=unknown&deviceType=web&deviceMake=Chrome"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTM3NThf/aniplanethd.png","titleMoz":"ANIMAL PLANET HD"},
@@ -46,6 +50,7 @@ https://youzontv-app.tk/discovery%2B/Animal_Planet.m3u8
 {"descriptionMoz":"Love Nature est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://49.12.123.148:8989/65/hls/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODEyMzA5MzFf/lovenat.jpg","titleMoz":"LOVE NATURE"},
 
 {"descriptionMoz":"Planet Plus est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["http://185.177.125.251:8080/planeteplus/index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODMzMTM3NThf/aniplanethd.png","titleMoz":"PLANET PLUS"},
+
 
 
 
