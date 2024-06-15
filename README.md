@@ -5,11 +5,15 @@
 
 {"descriptionMoz":"Chine Global Television Network TV 2 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://livefr.cgtn.com/1000f/prog_index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","titleMoz":"CGTN"},
 
+{"descriptionMoz":"Travel TV est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["http://185.59.221.131:8081/live/travel/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NDZfNTMxMjI5NTdf/travelxp.png","titleMoz":"TRAVEL XP"},
+
 {"descriptionMoz":"National Géographie est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://185.59.221.131:8081/live/natgeo/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODQ0MzQyMTlf/NatGeoHD.webp","titleMoz":"NAT GEO 2"},
 
-{"descriptionMoz":"Chine Global Television Network TV 1 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://live.cgtn.com/1000/prog_index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","titleMoz":"CGTN 2"},
+{"descriptionMoz":"Chine Global Television Network TV 1 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://live.cgtn.com/1000/prog_index.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","titleMoz":"CGTN"},
 
 {"descriptionMoz":"Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.","sourceMoz":["https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"ADVENTURE EARTH UK"},
+
+{"descriptionMoz":"Chine Global Television Network TV 2 est une chaîne télévisée du Chine spécialisée au Documentaires et autres.","sourceMoz":["http://185.59.221.131:8081/live/cgtn/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/M18yODA3NTY5Mzhf/cgtntwo.jpg","titleMoz":"CGTN 2"},
 
 {"descriptionMoz":"RMC Découverte est une chaîne télévisée spécialisée au Documentaires et autres.","sourceMoz":["http://185.59.221.131:8081/live/rmcdecouverte/playlist.m3u8"],"subtitleMoz":"By Channel","thumbMoz":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleMoz":"RMC DÉCOUVERTE"},
 
